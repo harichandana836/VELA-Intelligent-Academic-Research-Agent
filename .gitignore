@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.vela_cache/
+node_modules/
+dist/
+
+# Backup files
+*_backup.*
+*before_*.js
